@@ -84,9 +84,11 @@ Technique Interests:
 - Research Associate
 
 ## Hobbies
-- Exercising (resistance training, cardiovascular exercise (running, etc.), functional strength and circuit training)
+- Exercise (HIIT, resistance training, cardiovascular exercise (running, hiking, trail running, etc.), functional strength and circuit training)
+- Mixed Martial Arts (MMA)
 - Hiking, Cycling, and Climbing
-- Reading, Listening to Audiobooks and Podcasts
+- Reading books
+- Listening to Podcasts and Audiobooks
 - Music and Movies
    
 </html>
