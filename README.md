@@ -1,17 +1,17 @@
 ### Hello ✨ I am Daniel Joseph Gomez, an innovative 👨‍🔬 Molecular, Cell, Tissue, Organ, Structural and Computational Biologist 👨‍💻!
 
 - 👋 Hi, I’m Daniel J. Gomez, a graduate student researcher at Stanford University School of Medicine and California State University, East Bay.
-- 👀 I’m interested in biomedical translational research, genetics, genomics, bioinformatics, exercise immunology, computational/systems cancer biology, spatial proteomics, spatial transcriptomics, precision and evidence-based medicine.
-- 🌱 I’m currently learning exercise immunology, computational cancer systems biology, and multimodal analysis as well as big data omics approaches.
-- 💞️ I’m doing research, development, and analytics in basic science and translational biomedical research for multiple consortia MoTrPAC, HCA, HuBMAP, and HTAN.
+- 👀 I’m interested in biomedical translational research, genetics, genomics, bioinformatics, exercise immunology, computational/systems cancer biology, spatial multi-omics, precision and evidence-based medicine.
+- 🌱 I’m currently learning generative digital twin technology, exercise immuno-ommunology, computational/systems cancer  biology, and multimodal analysis as well as big data omics approaches.
+- 💞️ I’m doing research, development, and analytics in basic science and translational biomedical research for multiple consortia MoTrPAC, HCGA, HuBMAP, and HTAN.
 - 📫 How to reach me sfdanielgomez@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun facts: I've authored several scientific peer-reviewed publications, and presented to global audiences.
 - I won 1st, 2nd, and 3rd place in grappling/jiu-jitsu competitions, and played other sports including basketball, soccer, football, and volleyball.
 - I've also did lighting design for over 20 productions across U.S. cities, universities in multiple states in the USA.
 - I've played multiple musical instruments: piano, clarinet, saxophone, guitar, 2nd violin, made 1st violin, and played orchestra internationally.
-- I've also stayed consistent in doing state-of-the-art academic biomedical research  in six different medical schools and one veterinary medical college (Stanford Medicine, JABSOM, JHUSOM, UCSDSOM, UFCVM, DUCOM) and industry-level methods.
-- I also love collaborating with other innovative academic institutions and companies! 
+- I've also stayed consistent in doing state-of-the-art academic biomedical research in six different medical schools and one veterinary medical college (Stanford Medicine, JABSOM, JHUSOM, UCSDSOM, UFCVM, DUCOM) and industry-scale methods.
+- I also enjoy collaborating with other cohorts, labs, companies, and innovative academic institutions! 
 
 
 My <a href="https://djgomez.org">Academic profile</a> is here for your viewing pleasure 🧭 🌎.
