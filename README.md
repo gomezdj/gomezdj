@@ -4,7 +4,7 @@
 - 👀 I’m interested in biomedical translational research, genetics, genomics, bioinformatics, exercise immunology, computational/systems cancer biology, spatial multi-omics, precision and evidence-based medicine.
 - 🌱 I’m currently learning generative digital twin technology, exercise immuno-ommunology, computational/systems cancer  biology, and multimodal analysis as well as big data omics approaches.
 - 💞️ I’m doing research, development, and analytics in basic science and translational biomedical research for multiple consortia MoTrPAC, HCGA, HuBMAP, and HTAN.
-- 📫 How to reach me sfdanielgomez@gmail.com
+- 📫 How to reach me d.gomez@me.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun facts: I've authored several scientific peer-reviewed publications, and presented to global audiences.
 - I won 1st, 2nd, and 3rd place in grappling/jiu-jitsu competitions, and played other sports including basketball, soccer, football, and volleyball.
