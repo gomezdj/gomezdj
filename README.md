@@ -77,11 +77,11 @@ Technique Interests:
 - Digital pathology
   
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
+- Spatial Biologist
 - Biomedical Data Scientist
 - Research Data Analyst
 - Lab Manager
-- Professional Scientist
-- Research Associate
+- Director
 
 ## Hobbies
 - Exercise (HIIT, resistance training, cardiovascular exercise (running, hiking, trail running, etc.), functional strength and circuit training)
