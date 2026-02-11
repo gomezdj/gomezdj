@@ -80,8 +80,6 @@ Technique Interests:
 - Spatial Biologist
 - Biomedical Data Scientist
 - Research Data Analyst
-- Lab Manager
-- Director
 
 ## Hobbies
 - Exercise (HIIT, resistance training, cardiovascular exercise (running, hiking, trail running, etc.), functional strength and circuit training)
