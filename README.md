@@ -14,7 +14,7 @@
 - I also enjoy collaborating with other cohorts, labs, companies, and innovative academic institutions! 
 
 
-My <a href="https://djgomez.org">Academic profile</a> is here for your viewing pleasure 🧭 🌎.
+My <a href="https://gomezdj.github.io">Academic profile</a> is here for your viewing pleasure 🧭 🌎.
 
 - 🗺️ My present graduate studies is in Molecular and Cellular Atlases, Spatially Resolved Technologies. Single-Cell RNA Sequencing, Digital Pathology, Deep Omics Profiling in Health and Disease, AI/ML Data Science and Cloud Computing in Precision Medicine, Biomedicine, Genetics and Genomics, Multiomics, Translational Medicine, Immunology, Pathogenomics and Computational Biology. Currently, I am doing my thesis research on creating multi-modal maps of exerkines in spatially resolved multiomics with preclinical model data and the human biomolecular atlas project spatial data, exercise and physical activity multiomics, interorgan communication, signal transduction networks, and building multiscale single-cell spatial profiles of interorgan crosstalk at single-cell resolution, near-single cell super-resolution, and connecting cell-cell interactions with ligand-receptor interaction cascades and functions inside the cell that display the effect of exerkines measured in health, resilience, and disease.
 
