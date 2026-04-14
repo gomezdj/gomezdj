@@ -1,4 +1,4 @@
-### Hello ✨ I am Daniel J. Gomez, an innovative 👨‍🔬 Systems Immunologist 👨‍💻!
+### Hello ✨ I am Daniel J. Gomez, an innovative 👨‍🔬 Cancer Systems Biologist 👨‍💻!
 
 - 👋 Hi, I’m Daniel J. Gomez, a graduate student researcher at Stanford University School of Medicine (Genetics) and California State University, East Bay (Biological Sciences)
 - 👀 I’m interested in biomedical translational research, genetics, genomics, bioinformatics, exercise immunology, computational/systems cancer biology, spatial multi-omics, precision and evidence-based medicine.
