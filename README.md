@@ -1,4 +1,4 @@
-### Hello ✨ I am Daniel Gomez, an innovative 👨‍🔬 Cancer/Computational Systems Biologist👨‍💻!
+### Hello ✨ I am Daniel Gomez, an innovative 👨‍🔬 Genetics Systems Biologist👨‍💻!
 
 - 👋 Hi, I’m Daniel Gomez, a graduate student researcher at Stanford University School of Medicine (Genetics) and California State University, East Bay (Biological Sciences)
 - 👀 I’m interested in biomedical translational research, genetics, genomics, bioinformatics, exercise immunology, computational/systems cancer biology, spatial multi-omics, precision and evidence-based medicine.
