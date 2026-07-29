@@ -70,23 +70,28 @@ Technique Interests:
 - DNA isolation
 - Phylogenetics
 - Tissue (in situ) experiments (H&E, immunohistochemistry, in situ hybridization)
-- Reinforcement Learning
+- Reinforcement Learning for Immunotherapy at a single-cell resolution
 - Processing large data sets
 - Big Data and Omics
-- Single-cell multiomics and Spatial omics research
-- Digital pathology
+- Single cell multiomics and Spatial omics research
+- Digital pathology computational pipelines and platforms
   
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
 - Spatial Biologist
 - Biomedical Data Scientist
-- Research Data Analyst
+- Researcher
 
 ## Hobbies
-- Exercise (HIIT, resistance training, cardiovascular exercise (running, hiking, trail running, etc.), functional strength and circuit training)
-- Mixed Martial Arts (MMA)
-- Hiking, Cycling, and Climbing
+- Exercise
 - Reading books
-- Listening to Podcasts and Audiobooks
-- Music and Movies
+- Podcasts
+- Running
+- Cycling
+- Hiking
+- Climbing
+- Audiobooks
+- Music
+- Mixed Martial Arts (MMA) - Jiu jitsu, Standup (for example, Muay Thai)
+- Movies
    
 </html>
