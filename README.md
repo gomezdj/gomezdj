@@ -3,8 +3,8 @@
 - 👋 Hi, I’m Daniel Gomez, a graduate student researcher at Stanford University School of Medicine (Genetics) and California State University, East Bay (Biological Sciences)
 - 👀 I’m interested in biomedical translational research, genetics, genomics, bioinformatics, exercise immunology, computational/systems cancer biology, spatial multi-omics, precision and evidence-based medicine.
 - 🌱 I’m currently learning generative digital twin technology, exercise immuno-oncology, computational/systems cancer  biology, and multimodal analysis as well as big data omics approaches.
-- 💞️ I’m doing research, development, and analytics in basic science and translational biomedical research for multiple consortia MoTrPAC, HCGA, HuBMAP, and HTAN.
-- 📫 How to reach me sfdanielgomez@gmail.com
+- 💞️ I’m doing research, development, and analytics in basic science and translational biomedical research for multiple consortia MoTrPAC, HCGA, HuBMAP, HTAN, and PsychENCODE with Stanford Medicine.
+- 📫 How to reach me dangomez.ai[at]icloud[dot]com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun facts: I've authored several scientific peer-reviewed publications, and presented to global audiences.
 - I won 1st, 2nd, and 3rd place in grappling/jiu-jitsu competitions, and played other sports including basketball, soccer, football, waterpolo, and volleyball.
