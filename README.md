@@ -2,15 +2,16 @@
 
 - 👋 Hi, I’m Daniel Gomez, a graduate research assistant at Stanford University School of Medicine (Genetics) and California State University, East Bay (Biological Sciences)
 - 👀 I’m interested in biomedical translational research, genetics, genomics, bioinformatics, exercise immunology, computational/systems cancer biology, spatial multi-omics, precision and evidence-based medicine.
-- 🌱 I’m currently learning generative digital twin technology, exercise immuno-oncology, computational/systems cancer  biology, and multimodal analysis as well as big data omics approaches.
+- 🌱 I’m currently working on generative AI models for omics foundational models (FM) for virtual cell world models, virtual tissue reconstruction, subcellular and single-cell resolution, wearable language models, exercise immuno-oncology and computational/systems cancer biology, and multimodal analysis as well as big data omics approaches.
 - 💞️ I’m doing research, development, and analytics in basic science and translational biomedical research for multiple consortia MoTrPAC, HCGA, HuBMAP, HTAN, and PsychENCODE with Stanford Medicine.
-- 📫 How to reach me dangomez.ai[at]icloud[dot]com
+- 📫 How to reach me sfdanielgomez[at]gmail[dot]com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun facts: I've authored several scientific peer-reviewed publications, and presented to global audiences.
-- I won 1st, 2nd, and 3rd place in grappling/jiu-jitsu competitions, and played other sports including basketball, soccer, football, waterpolo, and volleyball.
-- I've also did lighting design for over 20 productions across U.S. cities, universities in multiple states in the USA.
-- I've played multiple musical instruments: piano, clarinet, saxophone, guitar, 2nd violin, made 1st violin, and played orchestra internationally.
-- I've also stayed consistent in doing state-of-the-art academic biomedical research in six different medical schools and one veterinary medical college (Stanford Medicine, JABSOM, JHUSOM, UCSDSOM, UFCVM, DUCOM) and industry-scale methods.
+- I was the Project Winner in the Whole Person Physiome (WPP) Annual Hackathon 2026 for "Most Innovative Project".
+- I won 1st, 2nd, and 3rd place in grappling/jiu-jitsu competitions, and played other sports including baseball, basketball, soccer, volleyball, waterpolo, and football.
+- I've also was a lighting designer for over 20 productions across U.S. cities, universities in multiple states in the USA.
+- I've played multiple musical instruments: piano, clarinet, saxophone, guitar, 2nd violin, 1st violin, and played in orchestras internationally.
+- I've also stayed consistent in doing state-of-the-art academic biomedical research in six different medical schools and one veterinary medical college (JABSOM, JHUSOM, UCSDSOM, UFCVM, DUCOM, Stanford Medicine,) and industry-scale methods.
 - I also enjoy collaborating with other cohorts, labs, companies, and innovative academic institutions! 
 
 
@@ -49,7 +50,7 @@ Technique Interests:
 
 
 #### X: [@daniel_j_gomez](https://x.com/daniel_j_gomez) 
-#### LinkedIn: [/in/danieljgomez1/](https://www.linkedin.com/in/danieljgomez1) 
+#### LinkedIn: [/in/gomezdj/](https://www.linkedin.com/in/gomezdj) 
 
 ### Skills
 - Data Science and Cloud Computing of Precision Medicine
